@@ -17,37 +17,14 @@ Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web 
 
 # También puedes encontrarme en:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariano-mercevich-41b62624/ )
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/marito_live/)
-[![My Skills](https://skillicons.dev/icons?i=xd)](https://www.behance.net/marianomarcevi)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://marianomercevich.github.io/profolio_personal/)
-
- <p align="center">
-  <a href="https://www.linkedin.com/in/mariano-mercevich-41b62624/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> &nbsp;
-  <a href="https://www.instagram.com/marito_live/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a> &nbsp;
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a> &nbsp;
-</p>
-
-<br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-
+<a href="https://www.linkedin.com/in/mariano-mercevich-41b62624/ " ><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/marito_live/" ><img src="https://skillicons.dev/icons?i=instagram" /></a>   &nbsp; &nbsp;
+<a href="https://www.behance.net/marianomarcevi" ><img src="https://skillicons.dev/icons?i=xd"  /></a>   &nbsp; &nbsp;
+<a href="https://marianomercevich.github.io/profolio_personal/"><img src="https://skillicons.dev/icons?i=github"/></a>  
 <br>
-<a href="https://www.javascript.com/" ><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp; &nbsp;
-<a href="https://www.figma.com/" ><img src="https://skillicons.dev/icons?i=instagram" /></a>   &nbsp; &nbsp;
-<a href="https://www.adobe.com/in/products/photoshop.html" ><img src="https://skillicons.dev/icons?i=xd"  /></a>   &nbsp; &nbsp;
-<a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://skillicons.dev/icons?i=github"/></a>  
-
-<br>
+</p>
 ¡No dudes en contactarme para colaboraciones o simplemente para conectarnos!
 
 
