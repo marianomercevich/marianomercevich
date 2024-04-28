@@ -11,7 +11,7 @@ Mi experiencia abarca áreas como administración, ventas y gestión de equipos,
 
 Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web que combinan funcionalidad y estética de manera efectiva. Aunque mi trayectoria incluye proyectos con Java y Vue, mi enfoque principal es seguir aprendiendo y creciendo en cada oportunidad que se presente.
 
---
+---
 
 ¡Estoy emocionado de conectar y colaborar en proyectos innovadores! Puedes ver mi portafolio en Behance y explorar mis proyectos en GitHub.
 
@@ -25,6 +25,7 @@ Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web 
 <a href="https://marianomercevich.github.io/profolio_personal/"><img src="https://skillicons.dev/icons?i=github"/></a>  
 
 
+<br>
 <br>
 ¡No dudes en contactarme para colaboraciones o simplemente para conectarnos!
 </p>
