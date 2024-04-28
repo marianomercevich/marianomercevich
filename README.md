@@ -3,7 +3,10 @@
 
 ---
 
-**hola! soy mariano mercevich** 
+**hola! soy mariano mercevich** En busca de un cambio, me encuentro preparándome actualmente en el apasionado mundo de la tecnología, soy un desarrollador Full Stack y diseñador Ux Ui.
+Soy una persona resolutiva un poco autodidacta, trabajo muy bien en equipo soy proactivo y muy inquieto me gusta aprender, cuento con experiencia en administración , ventas y manejo de personal , en busca de un cambio, me encuentro preparándome actualmente en el apasionado mundo de la tecnología soy Fullstack y Diseñador, cuento con experiencia en Python, PHP, Js, react ,desarrollo web y diseñador Ux Ui y en desarrollo Backend con express node js manejo de bases de datos sql y no sql. La falta de experiencia en estos campos las compenso con mis permanentes ganas de aprender y emprender. y leyendo mucha documental.
+porfolio: https://www.behance.net/marianomarcevi
+github: https://github.com/marianomercevich
 
 <!--
 
