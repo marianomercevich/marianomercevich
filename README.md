@@ -24,19 +24,18 @@ Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-    <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes" />
   </a>
-    <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
-</p>
-
 
 <br>
 ¡No dudes en contactarme para colaboraciones o simplemente para conectarnos!
