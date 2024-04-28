@@ -16,17 +16,18 @@ Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web 
 ¡Estoy emocionado de conectar y colaborar en proyectos innovadores! Puedes ver mi portafolio en Behance y explorar mis proyectos en GitHub.
 
 # También puedes encontrarme en:
-
+<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mariano-mercevich-41b62624/ " ><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp; &nbsp;
 <a href="https://www.instagram.com/marito_live/" ><img src="https://skillicons.dev/icons?i=instagram" /></a>   &nbsp; &nbsp;
 <a href="https://www.behance.net/marianomarcevi" ><img src="https://skillicons.dev/icons?i=xd"  /></a>   &nbsp; &nbsp;
 <a href="https://marianomercevich.github.io/profolio_personal/"><img src="https://skillicons.dev/icons?i=github"/></a>  
-<br>
-</p>
-¡No dudes en contactarme para colaboraciones o simplemente para conectarnos!
 
+
+<br>
+¡No dudes en contactarme para colaboraciones o simplemente para conectarnos!
+</p>
 
 
 
