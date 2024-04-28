@@ -3,10 +3,15 @@
 
 ---
 
-**hola! soy mariano mercevich** En busca de un cambio, me encuentro preparándome actualmente en el apasionado mundo de la tecnología, soy un desarrollador Full Stack y diseñador Ux Ui.
-Soy una persona resolutiva un poco autodidacta, trabajo muy bien en equipo soy proactivo y muy inquieto me gusta aprender, cuento con experiencia en administración , ventas y manejo de personal , en busca de un cambio, me encuentro preparándome actualmente en el apasionado mundo de la tecnología soy Fullstack y Diseñador, cuento con experiencia en Python, PHP, Js, react ,desarrollo web y diseñador Ux Ui y en desarrollo Backend con express node js manejo de bases de datos sql y no sql. La falta de experiencia en estos campos las compenso con mis permanentes ganas de aprender y emprender. y leyendo mucha documental.
-porfolio: https://www.behance.net/marianomarcevi
-github: https://github.com/marianomercevich
+¡Hola Terricolas! Soy Mariano Mercevich, un apasionado del mundo de la tecnología en constante búsqueda de nuevos desafíos. Como desarrollador Full Stack y diseñador UX/UI, estoy dedicado a prepararme y crecer continuamente en este emocionante campo.
+
+Soy una persona resolutiva y autodidacta, con una fuerte capacidad para el trabajo en equipo y una actitud proactiva. Mi curiosidad insaciable y mi deseo constante de aprender me impulsan a explorar nuevas tecnologías y metodologías.
+
+Mi experiencia abarca áreas como administración, ventas y gestión de equipos, complementadas con habilidades sólidas en desarrollo web. Utilizo una variedad de lenguajes y frameworks, incluyendo Python, PHP, JavaScript y TypeScript, junto con bibliotecas como React y Angular, así como MongoDB y Laravel.
+
+Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web que combinan funcionalidad y estética de manera efectiva. Aunque mi trayectoria incluye proyectos con Java y Vue, mi enfoque principal es seguir aprendiendo y creciendo en cada oportunidad que se presente.
+
+¡Estoy emocionado de conectar y colaborar en proyectos innovadores! Puedes ver mi portafolio en Behance y explorar mis proyectos en GitHub.
 
 <!--
 
