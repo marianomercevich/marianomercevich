@@ -1,7 +1,7 @@
 
 <p align="center"> <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"><img/> </p>
 
----
+<img---color=f40082&/>
 
 ¡Hola Terricolas! Soy Mariano Mercevich, un apasionado del mundo de la tecnología en constante búsqueda de nuevos desafíos. Como desarrollador Full Stack y diseñador UX/UI, estoy dedicado a prepararme y crecer continuamente en este emocionante campo.
 
