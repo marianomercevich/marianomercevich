@@ -18,7 +18,7 @@ Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web 
 # También puedes encontrarme en:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariano-mercevich-41b62624/ )
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/marito_live/  )
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/marito_live/)
 [![My Skills](https://skillicons.dev/icons?i=xd)](https://www.behance.net/marianomarcevi)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://marianomercevich.github.io/profolio_personal/)
 
@@ -27,7 +27,7 @@ Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web 
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> &nbsp;
   <a href="https://www.instagram.com/marito_live/">
-    <img src="https://skillicons.dev/icons?i=instagrams" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a> &nbsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker" />
@@ -37,6 +37,8 @@ Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
+ <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> &nbsp; &nbsp;
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> &nbsp; &nbsp;      
 </p>
 
 <br>
