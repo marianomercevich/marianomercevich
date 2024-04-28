@@ -10,30 +10,16 @@ Soy una persona resolutiva y autodidacta, con una fuerte capacidad para el traba
 Mi experiencia abarca áreas como administración, ventas y gestión de equipos, complementadas con habilidades sólidas en desarrollo web. Utilizo una variedad de lenguajes y frameworks, incluyendo Python, PHP, JavaScript y TypeScript, junto con bibliotecas como React y Angular, así como MongoDB y Laravel.
 
 Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web que combinan funcionalidad y estética de manera efectiva. Aunque mi trayectoria incluye proyectos con Java y Vue, mi enfoque principal es seguir aprendiendo y creciendo en cada oportunidad que se presente.
-
+--
 ¡Estoy emocionado de conectar y colaborar en proyectos innovadores! Puedes ver mi portafolio en Behance y explorar mis proyectos en GitHub.
 
-También puedes encontrarme en:
-
-LinkedIn: Mariano Mercevich
-Sitio web personal: Mi portafolio personal
-Instagram: Marito_Live
-¡No dudes en contactarme para colaboraciones o simplemente para conectarnos!
-
-     
-  
-
-
-
-
-
-
+# También puedes encontrarme en:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariano-mercevich-41b62624/ )
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/marito_live/  )
 [![My Skills](https://skillicons.dev/icons?i=xd)](https://www.behance.net/marianomarcevi)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://marianomercevich.github.io/profolio_personal/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)]()
+¡No dudes en contactarme para colaboraciones o simplemente para conectarnos!
 
 
 
