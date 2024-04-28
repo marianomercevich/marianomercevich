@@ -10,7 +10,9 @@ Soy una persona resolutiva y autodidacta, con una fuerte capacidad para el traba
 Mi experiencia abarca áreas como administración, ventas y gestión de equipos, complementadas con habilidades sólidas en desarrollo web. Utilizo una variedad de lenguajes y frameworks, incluyendo Python, PHP, JavaScript y TypeScript, junto con bibliotecas como React y Angular, así como MongoDB y Laravel.
 
 Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web que combinan funcionalidad y estética de manera efectiva. Aunque mi trayectoria incluye proyectos con Java y Vue, mi enfoque principal es seguir aprendiendo y creciendo en cada oportunidad que se presente.
+
 --
+
 ¡Estoy emocionado de conectar y colaborar en proyectos innovadores! Puedes ver mi portafolio en Behance y explorar mis proyectos en GitHub.
 
 # También puedes encontrarme en:
@@ -23,13 +25,13 @@ Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web 
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" />
-  </a>
+  </a> &nbsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes" />
-  </a>
+  </a> &nbsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
+  </a> &nbsp;
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
