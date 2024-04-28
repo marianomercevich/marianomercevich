@@ -28,8 +28,14 @@ https://marianomercevich.github.io/profolio_personal/
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=behance)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xd)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
