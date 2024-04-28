@@ -28,13 +28,13 @@ Instagram: Marito_Live
 
 
 
-<p align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariano-mercevich-41b62624/ )
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/marito_live/  )
 [![My Skills](https://skillicons.dev/icons?i=xd)](https://www.behance.net/marianomarcevi)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://marianomercevich.github.io/profolio_personal/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)]()
-</p>
+
 
 
 
