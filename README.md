@@ -1,4 +1,4 @@
-[### Hi there 👋](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
+![](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 
 <!--
 **marianomercevich/marianomercevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
