@@ -26,7 +26,10 @@ https://www.behance.net/marianomarcevi
 https://marianomercevich.github.io/profolio_personal/
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,github,linkedin,instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=behance)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 
 
