@@ -13,6 +13,15 @@ Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web 
 
 ¡Estoy emocionado de conectar y colaborar en proyectos innovadores! Puedes ver mi portafolio en Behance y explorar mis proyectos en GitHub.
 
+También puedes encontrarme en:
+
+LinkedIn: Mariano Mercevich
+Sitio web personal: Mi portafolio personal
+Instagram: Marito_Live
+¡No dudes en contactarme para colaboraciones o simplemente para conectarnos!
+
+
+
 <!--
 
 **marianomercevich/marianomercevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
