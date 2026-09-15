@@ -7,14 +7,17 @@
 
 # ¡Hola Terricolas! 
 
- Soy Mariano Mercevich, un apasionado del mundo de la tecnología en constante búsqueda de nuevos desafíos. Como desarrollador Full Stack y diseñador UX/UI, estoy dedicado a prepararme y crecer continuamente en este emocionante campo.
+ Soy Mariano Mercevich, desarrollador Full Stack con foco en backend y experiencia construyendo y llevando a producción aplicaciones, APIs, automatizaciones e integraciones para proyectos reales.
 
- Soy una persona resolutiva y autodidacta, con una fuerte capacidad para el trabajo en equipo y una actitud proactiva. Mi curiosidad insaciable y mi deseo constante de aprender me impulsan a explorar nuevas tecnologías y metodologías.
+Trabajo principalmente con TypeScript, Node.js, Express, React, Python y bases de datos SQL y NoSQL. Tengo experiencia desarrollando APIs REST, integrando servicios externos, trabajando con Docker y participando en procesos de despliegue y puesta en producción.
 
- Mi experiencia abarca áreas como administración, ventas y gestión de equipos, complementadas con habilidades sólidas en desarrollo web. Utilizo una variedad de lenguajes y frameworks, incluyendo Python, PHP, JavaScript y TypeScript, junto con bibliotecas como React y Angular, así como MongoDB y Laravel.
+En los últimos años también me especialicé en automatización e integración de modelos de lenguaje, construyendo soluciones que combinan APIs de IA, procesamiento de información, bots, OCR, automatizaciones y sistemas existentes. Me interesa especialmente utilizar estas tecnologías para resolver problemas concretos de negocio, no simplemente incorporarlas por moda.
 
- Además, he incursionado en el diseño UX/UI, creando aplicaciones y sitios web que combinan funcionalidad y estética de manera efectiva. Aunque mi trayectoria incluye proyectos con Java y Vue, mi enfoque principal es seguir aprendiendo y creciendo en cada oportunidad que se presente.
+Me considero una persona resolutiva, autodidacta y con facilidad para investigar y aprender tecnologías nuevas. Me gusta entender primero el problema, analizar las alternativas y después llevar una solución desde la idea hasta su implementación.
 
+Además de desarrollar, tengo experiencia trabajando con clientes y equipos, entendiendo necesidades, definiendo soluciones y participando en distintas etapas de un proyecto. Mi experiencia previa en administración, ventas y gestión de equipos también me ayudó a desarrollar una mirada más orientada al producto y al negocio.
+
+Actualmente sigo profundizando en arquitectura backend, infraestructura, automatización y desarrollo asistido por herramientas de IA, buscando mejorar tanto la calidad del código como la velocidad y eficiencia con la que puedo construir productos.
 ---
 
 ¡Estoy emocionado de conectar y colaborar en proyectos innovadores! Puedes ver mi portafolio en Behance y explorar mis proyectos en GitHub.
