@@ -18,6 +18,7 @@ Me considero una persona resolutiva, autodidacta y con facilidad para investigar
 Además de desarrollar, tengo experiencia trabajando con clientes y equipos, entendiendo necesidades, definiendo soluciones y participando en distintas etapas de un proyecto. Mi experiencia previa en administración, ventas y gestión de equipos también me ayudó a desarrollar una mirada más orientada al producto y al negocio.
 
 Actualmente sigo profundizando en arquitectura backend, infraestructura, automatización y desarrollo asistido por herramientas de IA, buscando mejorar tanto la calidad del código como la velocidad y eficiencia con la que puedo construir productos.
+
 ---
 
 ¡Estoy emocionado de conectar y colaborar en proyectos innovadores! Puedes ver mi portafolio en Behance y explorar mis proyectos en GitHub.
